@@ -1,5 +1,5 @@
 # 💫 About Me:
-.Net Engineer<br><br>
+Full-Stack Developer<br><br>
 
 
 ## 🌐 Socials:
